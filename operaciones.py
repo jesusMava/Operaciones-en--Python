@@ -1,6 +1,6 @@
 #NOM: Operaciones .py
 #Objeti3vo Muestra las funciones en Python
-#Autor : Alumnos de automatas 2 
+#Autor : JesusMava
 #Fecha 04-jul-2017
 
 
